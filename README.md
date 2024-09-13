@@ -1,6 +1,6 @@
 # Hi, I'm Julian 👋
 
-I am a dedicated technologist with a background in **Wirtschaftsmathematik**. I'm constantly learning and improving my skills, and I recently started to work on projects that combine hardware and software.
+I am a dedicated technologist with a background in **Mathematics**. I'm constantly learning and improving my skills, and I recently started to work on projects that combine hardware and software.
 
 ### 🔧 Technologies & Tools
 - Software Development and Analytics
