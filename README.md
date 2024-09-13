@@ -14,7 +14,6 @@ I am a dedicated technologist with a background in **Mathematics**. I'm constant
 - [Web Scraping Application](https://github.com/JuliDeri/WebScraper_Adresses) - This project focuses on scraping relevant data from the web using Python libraries such as BeautifulSoup and Scrapy.
 - [IoT Temperature & Humidity Sensor](https://github.com/JuliDeri/Temperature_and_humidity_sensor_raspberrypi) – A project that uses a Raspberry Pi and a DHT22 sensor to collect environmental data.
 - [Van Power System](https://github.com/JuliDeri/Van-power-supply-system) – Built the interior of a campervan, including the power supply system with inverter, solar panels, and battery storage.
-- 
 
 ### 🌱 Currently Learning
 - Surf Forecast and Tracking System: As I am a passionate surfer, I am planning a project that aims to build a comprehensive application. It should provide surf forecasts, wave conditions, and surf tracking for users.
