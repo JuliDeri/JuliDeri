@@ -6,7 +6,7 @@ I am a dedicated technologist with a background in **Mathematics**. I'm constant
 - Software Development and Analytics
 - Programming: Java, Python
 - Data Visualization (PowerBI, Pyplot, Matplotlib)
-- Embedded Systems (Raspberry Pi, Arduino)
+- Embedded Systems (Raspberry Pi)
 
 ### 📂 Projects
 - [Household Insurance Management System](https://github.com/JuliDeri/Household_Insurance) - A basic Java-based tool designed to manage and track household insurance policies.
